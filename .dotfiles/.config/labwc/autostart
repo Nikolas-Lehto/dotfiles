@@ -1,0 +1,5 @@
+# Set background image
+swaybg -i ~/Images/background.png >/dev/null 2>&1 &
+
+# Start waybar
+waybar >/dev/null 2>&1 &
